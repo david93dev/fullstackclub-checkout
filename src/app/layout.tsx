@@ -7,7 +7,6 @@ const poppins = Poppins({
   subsets: ["latin"],
 });
 
-
 export const metadata: Metadata = {
   title: "FSW Donalds",
   description: "Bootcamp",
